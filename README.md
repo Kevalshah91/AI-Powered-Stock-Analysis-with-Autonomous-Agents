@@ -2,8 +2,6 @@
 
 🚀 **An intelligent stock analysis system that leverages autonomous AI agents and real-time financial data to provide investment insights, price trends, and AI-driven decision support.**  
 
-![Stock Analysis Dashboard](https://via.placeholder.com/1000x500?text=Stock+Analysis+Dashboard)  
-
 ---  
 
 ## 🔥 Features  
@@ -53,18 +51,6 @@ graph TD;
 
 ---  
 
-## 📸 Screenshots  
-
-### 🔹 Stock Overview  
-<img src="https://via.placeholder.com/800x400?text=Stock+Overview" width="800">  
-
-### 🔹 Price Charts  
-<img src="https://via.placeholder.com/800x400?text=Price+Charts" width="800">  
-
-### 🔹 AI Decision Support  
-<img src="https://via.placeholder.com/800x400?text=AI+Decision+Support" width="800">  
-
----  
 
 ## 🤖 How AI Agents Work  
 The **LLM-based AI agent** analyzes stock data using:  
